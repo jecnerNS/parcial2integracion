@@ -1,1 +1,2 @@
 # parcial2integracion
+# INTEGRANTES : JECNER NUÑEZ SAMAME, RONALDO ALBORNOZ
